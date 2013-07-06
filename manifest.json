@@ -41,8 +41,15 @@
       ],
       "js": [
         "src/inject/inject.js",
-        "js/jquery/jquery.min.js"
+        "js/jquery/jquery.min.js",
+        "src/gritter/jquery.gritter.min.js"
+      ],
+      "css": [
+        "src/css/jquery.gritter.css"
       ]
     }
-  ]
+  ],
+  "web_accessible_resources": [
+        "src/images/logo.png"
+  ]  
 }
