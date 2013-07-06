@@ -1,5 +1,6 @@
 /* Errorgasm - A savior to deal with Web Programming errors 		*/
 /* Receiving Message from Injest.js and currently call the SOF API*/
+
 chrome.extension.onMessage.addListener(
  function(request, sender, sendResponse) {
  	console.log("Receiving error data");
