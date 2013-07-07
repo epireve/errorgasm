@@ -1,0 +1,1258 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"extra_infant_amount"
+			],
+			[
+				"SE",
+				"SEARCH_NUMBER_OF_PAGES"
+			],
+			[
+				"styl",
+				"stylesheet_link_tag"
+			],
+			[
+				"java",
+				"javascript_include_tag"
+			],
+			[
+				"publis",
+				"published_date"
+			],
+			[
+				"assi",
+				"assign_hotels_admin_travel_trade_path"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/bg/background.js",
+			"settings":
+			{
+				"buffer_size": 1114,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/inject/inject.js",
+			"settings":
+			{
+				"buffer_size": 1342,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "manifest.json",
+			"settings":
+			{
+				"buffer_size": 1249,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/inject/rails_catcher.js",
+			"settings":
+			{
+				"buffer_size": 844,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/css/jquery.gritter.css",
+			"settings":
+			{
+				"buffer_size": 2189,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"rails",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"set sy rail",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"as",
+				"Snippet: after_save"
+			],
+			[
+				"has and ",
+				"Snippet: has_and_belongs_to_many"
+			],
+			[
+				"",
+				"Snippet: has_and_belongs_to_many"
+			],
+			[
+				"con",
+				"Convert Case: Lower Case"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"rails ",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"erb",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"rail",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ruy",
+				"Set Syntax: Ruby"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				":ew",
+				"Snippet: each_with_index { |e, i| .. }"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/fadhil/Documents/magic/errorgasm/src/content_scripts/rails_catcher.js",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/assets/javascripts/pages.js.coffee",
+		"/Users/fadhil/Documents/magic/secret_retreats/config/routes.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/hotels/show.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/location_pages/show.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/discover_pages/show.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/layouts/application.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/admin/hotels/_hotel_offer_fields.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/admin/users.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/controllers/discover_pages_controller.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/offers/search.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/controllers/offers_controller.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/shared/_navigation.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/config/locales/fr.yml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/offers/enquiry.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/offers/custom_enquiry.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/assets/javascripts/hotels.js.coffee",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/importers/csv_parser/reservation_parser.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/models/user.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/admin/travel_agents.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/assets/stylesheets/custom.css.scss",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/hotels/_hotels.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/config/locales/en.yml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/enquiry_mailer/special_enquiry.html.erb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/mailers/enquiry_mailer.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/admin/special_enquiries.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/enquiry_mailer/plan_enquiry.html.erb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/models/hotel_enquiry.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/models/special_enquiry.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/admin/hotels/_content_fields.html.haml",
+		"/Users/fadhil/Documents/imagine/Food replacer.",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/models/hotel.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/models/special.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/admin/adverts/_content_fields.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/controllers/bookings_controller.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/controllers/application_controller.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/controllers/hotels_controller.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/offers/package-sales.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/models/hotel_offer.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/admin/hotels/_form.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/config/application.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/admin/hotels/_hotel_addon_fields.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/admin/hotel_enquiries/_form.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/offers/flash-sales.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/models/neighbour_relationship.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/admin/hotels/_image_fields.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/admin/hotels/_special_fields.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/admin/hotels/_associated_hotel_fields.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/lib/tasks/update_translations.rake",
+		"/Users/fadhil/Documents/magic/secret_retreats/config/config/initializers/carrierwave.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/models/associated_special.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/models/travel_agent.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/config/config/initializers/fog.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/layouts/none.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/static_pages/register_travel_agent.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/config/locales/cn.yml",
+		"/Users/fadhil/Documents/magic/secret_retreats/config/locales/jp.yml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/admin/hotel_enquiries.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/hotels/_plan.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/Capfile",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/hotels/plan.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/hotels/search.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/controllers/location_pages_controller.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/models/discover_page.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/models/location_page.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/admin/discover_pages.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/models/location.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/admin/location_pages.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/admin/hotels.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/shared/_discover_navigation.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/admin/offers.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/lib/tasks/bootstrap.rake",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/enquiry_mailer/register_agent.html.erb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/assets/stylesheets/form/foundation.css",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/admin/offers/_form.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/offers/index.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/static_pages/package_sales.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/bookings/show.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/assets/javascripts/channel_reports.js.coffee",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/static_pages/terms.html.erb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/models/admin_user.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/channel_reports/index.html.erb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/controllers/users_controller.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/bookings/show_booking.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/bookings/show_availability.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/bookings/show_property.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/importers/base_parser.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/lib/import/strategy/csv_strategy.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/shared/_footer.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/helpers/application_helper.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/assets/stylesheets/booking_button.css.scss",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/travel_agents/registrations/new.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/admin/travel_trade_report.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/controllers/static_pages_controller.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/assets/stylesheets/typography.css.scss",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/assets/stylesheets/pages.css.scss",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/assets/stylesheets/navigation.css.scss",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/admin/commission_report.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/config/environment.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/controllers/travel_trade_reports_controller.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/admin/reservation.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/travel_agents/registrations/edit.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/static_pages/travel_trade_list.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/admin/travel_trade.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/static_pages/terms_of_use.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/layouts/travel_trade_list.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/controllers/ta_registrations_controller.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/travel_trade_reports/show.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/travel_trade_reports/index.html.erb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/admin/travel_trades/hotels.html.erb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/ta_registrations/edit.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/static_pages/terms.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/admin/travel_agents/_contact_people.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/admin/hotels/_hotel_rate_fields.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/models/hotels_user.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/models/rate.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/admin/hotels/_rate_fields.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/admin/hotels/_hotel_fields.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/admin/admin_tasks.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/assets/stylesheets/active_admin.css.scss",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/controllers/registrations_controller.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/assets/stylesheets/component.css.scss",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/models/offer.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/spec/factories/interested_locations_factory.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/spec/factories/travel_agent_factory.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/spec/models/travel_agent_spec.rb",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/views/layouts/static.html.haml",
+		"/Users/fadhil/Documents/magic/secret_retreats/app/assets/javascripts/application.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"-tags",
+			"assets/javascripts/",
+			"assets/",
+			"-tags",
+			"assets/stylesheets",
+			"-logs/",
+			"-tags",
+			"app/assets/stylesheets/",
+			"-tags",
+			"",
+			"app/assets/stylesheets",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"innerHTML",
+			"'';\n",
+			"booking",
+			"fonts.com",
+			"font",
+			"hotel_show",
+			"hotel.*show",
+			"hotels",
+			"associated_hotel_id",
+			"has_package",
+			"advert",
+			"has_many",
+			"hotel.*offer",
+			"datepicker",
+			"datepi",
+			"hotel.*rate",
+			"lightbox",
+			"tall",
+			"fb-root",
+			"fb.*like",
+			"span6",
+			"has_package",
+			"Mailer",
+			"lightbo",
+			"fuck",
+			"datepicker",
+			"departure",
+			"#{@tabcontents[i].category.gsub(/[^\\w]/,'-')}",
+			"@tabcontents[i].category.gsub(/[^\\w]/,'-')",
+			"#tab#",
+			"[^\\w]/u",
+			"[^\\w]/",
+			"offer",
+			"has_packa",
+			"has_package",
+			"booking",
+			"has_package",
+			"enquiry",
+			"has_package",
+			"addon",
+			"package",
+			"offers",
+			"created_by",
+			"content_fields",
+			"content_field",
+			"fog_credentials",
+			":fog",
+			"category",
+			"date",
+			"package",
+			"hotel_enquiries",
+			"select",
+			"details_agent_type",
+			"custom dropdown",
+			"Book the best",
+			"OfferCategory",
+			"romantic",
+			"offer",
+			"early-bird",
+			"lightbox",
+			"light",
+			"small_light",
+			"skype",
+			"fast.fonts",
+			"CSV",
+			"attendance_list",
+			"nokogiri",
+			"twitter",
+			"face",
+			"facebook",
+			"fonts.com",
+			"garamond",
+			"http",
+			"skype",
+			"twitter",
+			"facebook",
+			"facebook.com",
+			"after_sign_in",
+			"book_button_image_url",
+			"book_button_image_Url",
+			"book_button_image",
+			"/English",
+			"category",
+			"style",
+			"description",
+			"room",
+			"Room",
+			"title",
+			"page",
+			"Page",
+			"title",
+			"story",
+			"owner",
+			"Owner",
+			"name",
+			"offer",
+			"Offer",
+			"category",
+			"location",
+			"Location",
+			"interest",
+			"description",
+			"annual_closing",
+			"name",
+			"resource",
+			"Resource",
+			"resource",
+			"Resource",
+			"Addon",
+			"name",
+			"other_activities",
+			"story",
+			"Names",
+			"negotiated",
+			"negotia",
+			"negotiated rates",
+			"AGaramondPro",
+			"country_list",
+			"footer_list",
+			"slug",
+			"@country_list",
+			"cro",
+			"CRO",
+			"MDC",
+			"000",
+			"whitesmoke",
+			"color",
+			"Bangladesh"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"[^\\w]/u",
+			".p{style: \"color:#463e37\"}",
+			"extras_total_amount",
+			"addons_total_amount",
+			"",
+			"''"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/bg/background.js",
+					"settings":
+					{
+						"buffer_size": 1114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								683,
+								683
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/inject/inject.js",
+					"settings":
+					{
+						"buffer_size": 1342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								635,
+								635
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "manifest.json",
+					"settings":
+					{
+						"buffer_size": 1249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								922,
+								922
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 159.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/inject/rails_catcher.js",
+					"settings":
+					{
+						"buffer_size": 844,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								495,
+								495
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/css/jquery.gritter.css",
+					"settings":
+					{
+						"buffer_size": 2189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								426,
+								426
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"offercontrol",
+				"app/controllers/offers_controller.rb"
+			],
+			[
+				"hotelcontrol",
+				"app/controllers/hotels_controller.rb"
+			],
+			[
+				"",
+				"Find Results"
+			],
+			[
+				"hotelshow",
+				"app/views/hotels/show.html.haml"
+			],
+			[
+				"app/ass/javapa",
+				"app/assets/javascripts/pages.js.coffee"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"hotelsshow",
+				"app/views/hotels/show.html.haml"
+			],
+			[
+				"locationpagesshow",
+				"app/views/location_pages/show.html.haml"
+			],
+			[
+				"viewhotel_offer",
+				"app/views/admin/hotels/_hotel_offer_fields.html.haml"
+			],
+			[
+				"layoutappli",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"discoverpagesshow",
+				"app/views/discover_pages/show.html.haml"
+			],
+			[
+				"discoverpagescontrol",
+				"app/controllers/discover_pages_controller.rb"
+			],
+			[
+				"viewhotelshow",
+				"app/views/hotels/show.html.haml"
+			],
+			[
+				"adminuser.rb",
+				"app/admin/users.rb"
+			],
+			[
+				"localfr",
+				"config/locales/fr.yml"
+			],
+			[
+				"viewadminhotelhoteoff",
+				"app/views/admin/hotels/_hotel_offer_fields.html.haml"
+			],
+			[
+				"sharenaviga",
+				"app/views/shared/_navigation.html.haml"
+			],
+			[
+				"offersearch",
+				"app/views/offers/search.html.haml"
+			],
+			[
+				"offercontro",
+				"app/controllers/offers_controller.rb"
+			],
+			[
+				"offerenqui",
+				"app/views/offers/enquiry.html.haml"
+			],
+			[
+				"offercustom",
+				"app/views/offers/custom_enquiry.html.haml"
+			],
+			[
+				"offerenquiry",
+				"app/views/offers/enquiry.html.haml"
+			],
+			[
+				"hotels.co",
+				"app/assets/javascripts/hotels.js.coffee"
+			],
+			[
+				"pagesjs",
+				"app/assets/javascripts/pages.js.coffee"
+			],
+			[
+				"offercus",
+				"app/views/offers/custom_enquiry.html.haml"
+			],
+			[
+				"reserva",
+				"app/importers/csv_parser/reservation_parser.rb"
+			],
+			[
+				"travelagentrb",
+				"app/admin/travel_agents.rb"
+			],
+			[
+				"user.rb",
+				"app/models/user.rb"
+			],
+			[
+				"admintravelagent",
+				"app/admin/travel_agents.rb"
+			],
+			[
+				"custom",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"shohotel",
+				"app/views/hotels/_hotels.html.haml"
+			],
+			[
+				"en.yml",
+				"config/locales/en.yml"
+			],
+			[
+				"planenquiry",
+				"app/views/enquiry_mailer/plan_enquiry.html.erb"
+			],
+			[
+				"enquirymailer",
+				"app/mailers/enquiry_mailer.rb"
+			],
+			[
+				"adminspecial",
+				"app/admin/special_enquiries.rb"
+			],
+			[
+				"offercontr",
+				"app/controllers/offers_controller.rb"
+			],
+			[
+				"enquiry.rb",
+				"app/models/hotel_enquiry.rb"
+			],
+			[
+				"specialenquiry.rb",
+				"app/models/special_enquiry.rb"
+			],
+			[
+				"specialenquiry",
+				"app/models/special_enquiry.rb"
+			],
+			[
+				"appadminenquir",
+				"app/admin/special_enquiries.rb"
+			],
+			[
+				"customenquiry",
+				"app/views/offers/custom_enquiry.html.haml"
+			],
+			[
+				"adminuser",
+				"app/admin/users.rb"
+			],
+			[
+				"customenq",
+				"app/views/offers/custom_enquiry.html.haml"
+			],
+			[
+				"offerssearch",
+				"app/views/offers/search.html.haml"
+			],
+			[
+				"offersear",
+				"app/views/offers/search.html.haml"
+			],
+			[
+				"admintravel",
+				"app/admin/travel_agents.rb"
+			],
+			[
+				"adminhotelcontentfiel",
+				"app/views/admin/hotels/_content_fields.html.haml"
+			],
+			[
+				"reservat",
+				"app/importers/csv_parser/reservation_parser.rb"
+			],
+			[
+				"special.rb",
+				"app/models/special.rb"
+			],
+			[
+				"hotel.rb",
+				"app/models/hotel.rb"
+			],
+			[
+				"hotelcontentfields",
+				"app/views/admin/hotels/_content_fields.html.haml"
+			],
+			[
+				"contentfields",
+				"app/views/admin/adverts/_content_fields.html.haml"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"routes.r",
+				"config/routes.rb"
+			],
+			[
+				"applicationcontro",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"bookingcontro",
+				"app/controllers/bookings_controller.rb"
+			],
+			[
+				"custom.css",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"offerenq",
+				"app/views/offers/enquiry.html.haml"
+			],
+			[
+				"offercontroller",
+				"app/controllers/offers_controller.rb"
+			],
+			[
+				"package",
+				"app/views/offers/package-sales.html.haml"
+			],
+			[
+				"app/modehotel",
+				"app/models/hotel.rb"
+			],
+			[
+				"hotelhoteladdon",
+				"app/views/admin/hotels/_hotel_addon_fields.html.haml"
+			],
+			[
+				"hotelhoteloffer",
+				"app/views/admin/hotels/_hotel_offer_fields.html.haml"
+			],
+			[
+				"hotelform",
+				"app/views/admin/hotels/_form.html.haml"
+			],
+			[
+				"hoteladdonfie",
+				"app/views/admin/hotels/_hotel_addon_fields.html.haml"
+			],
+			[
+				"hoteloffer",
+				"app/models/hotel_offer.rb"
+			],
+			[
+				"offerpackage",
+				"app/views/offers/package-sales.html.haml"
+			],
+			[
+				"offerflash",
+				"app/views/offers/flash-sales.html.haml"
+			],
+			[
+				"hotelimagefi",
+				"app/views/admin/hotels/_image_fields.html.haml"
+			],
+			[
+				"neigh",
+				"app/models/neighbour_relationship.rb"
+			],
+			[
+				"hoteloffer.rb",
+				"app/models/hotel_offer.rb"
+			],
+			[
+				"hotel_offer",
+				"app/views/admin/hotels/_hotel_offer_fields.html.haml"
+			],
+			[
+				"hotel.r",
+				"app/models/hotel.rb"
+			],
+			[
+				"hotelofferfields",
+				"app/views/admin/hotels/_hotel_offer_fields.html.haml"
+			],
+			[
+				"adminhotelform",
+				"app/views/admin/hotels/_form.html.haml"
+			],
+			[
+				"updatetra",
+				"lib/tasks/update_translations.rake"
+			],
+			[
+				"hotel_offer_field",
+				"app/views/admin/hotels/_hotel_offer_fields.html.haml"
+			],
+			[
+				"hotelcontent",
+				"app/views/admin/hotels/_content_fields.html.haml"
+			],
+			[
+				"associatedspecial",
+				"app/models/associated_special.rb"
+			],
+			[
+				"modeluser",
+				"app/models/user.rb"
+			],
+			[
+				"modeluser.rb",
+				"app/models/user.rb"
+			],
+			[
+				"adminuser.r",
+				"app/admin/users.rb"
+			],
+			[
+				"modeltravela",
+				"app/models/travel_agent.rb"
+			],
+			[
+				"travel",
+				"app/admin/travel_agents.rb"
+			],
+			[
+				"user.r",
+				"app/models/user.rb"
+			],
+			[
+				"offercon",
+				"app/controllers/offers_controller.rb"
+			],
+			[
+				"registertravel",
+				"app/views/static_pages/register_travel_agent.html.haml"
+			],
+			[
+				"jp.yml",
+				"config/locales/jp.yml"
+			],
+			[
+				"fr.yml",
+				"config/locales/fr.yml"
+			],
+			[
+				"cn.yml",
+				"config/locales/cn.yml"
+			],
+			[
+				"cn.ym",
+				"config/locales/cn.yml"
+			],
+			[
+				"fr.y",
+				"config/locales/fr.yml"
+			],
+			[
+				"routes.rb",
+				"config/routes.rb"
+			],
+			[
+				"adminhotelen",
+				"app/admin/hotel_enquiries.rb"
+			],
+			[
+				"offerenquir",
+				"app/views/offers/enquiry.html.haml"
+			],
+			[
+				"_plan",
+				"app/views/hotels/_plan.html.haml"
+			],
+			[
+				"register",
+				"app/views/static_pages/register_travel_agent.html.haml"
+			],
+			[
+				"plan",
+				"app/views/hotels/plan.html.haml"
+			],
+			[
+				"viewenquiry",
+				"app/views/enquiry_mailer/plan_enquiry.html.erb"
+			],
+			[
+				"hotelscontent",
+				"app/views/admin/hotels/_content_fields.html.haml"
+			],
+			[
+				"search.html",
+				"app/views/hotels/search.html.haml"
+			],
+			[
+				"application",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"locationpagecont",
+				"app/controllers/location_pages_controller.rb"
+			],
+			[
+				"discoverpagecontr",
+				"app/controllers/discover_pages_controller.rb"
+			],
+			[
+				"modeldisco",
+				"app/models/discover_page.rb"
+			],
+			[
+				"modellocationpage",
+				"app/models/location_page.rb"
+			],
+			[
+				"modellocation",
+				"app/models/location.rb"
+			],
+			[
+				"modelhotelrb",
+				"app/models/hotel.rb"
+			],
+			[
+				"hotelrb",
+				"app/admin/hotels.rb"
+			],
+			[
+				"discoparb",
+				"app/admin/discover_pages.rb"
+			],
+			[
+				"discover",
+				"app/views/shared/_discover_navigation.html.haml"
+			],
+			[
+				"locationpage",
+				"app/admin/location_pages.rb"
+			],
+			[
+				"registertr",
+				"app/views/static_pages/register_travel_agent.html.haml"
+			],
+			[
+				"registeragent",
+				"app/views/enquiry_mailer/register_agent.html.erb"
+			],
+			[
+				"registertra",
+				"app/views/static_pages/register_travel_agent.html.haml"
+			],
+			[
+				"hotelcontentfie",
+				"app/views/admin/hotels/_content_fields.html.haml"
+			],
+			[
+				"viewadminoffform",
+				"app/views/admin/offers/_form.html.haml"
+			],
+			[
+				"adminoffer",
+				"app/admin/offers.rb"
+			],
+			[
+				"configroutes",
+				"config/routes.rb"
+			],
+			[
+				"applicationcon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"bookingsshowh",
+				"app/views/bookings/show.html.haml"
+			],
+			[
+				"offerin",
+				"app/views/offers/index.html.haml"
+			],
+			[
+				"adminofferform",
+				"app/views/admin/offers/_form.html.haml"
+			],
+			[
+				"admin/offer",
+				"app/admin/offers.rb"
+			],
+			[
+				"htmlerb",
+				"app/views/static_pages/terms.html.erb"
+			],
+			[
+				"modeltravel",
+				"app/models/travel_agent.rb"
+			],
+			[
+				"admin/user",
+				"app/admin/users.rb"
+			],
+			[
+				"adminuserrb",
+				"app/models/admin_user.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"sec",
+				"/Users/fadhil/Documents/magic/secret-retreats.sublime-project"
+			],
+			[
+				"sec ",
+				"/Users/fadhil/Documents/magic/secret-retreats.sublime-project"
+			],
+			[
+				"pkns",
+				"/Users/fadhil/Documents/magic/pkns.sublime-project"
+			],
+			[
+				"pkn",
+				"/Users/fadhil/Documents/magic/pkns.sublime-project"
+			],
+			[
+				"secret",
+				"/Users/fadhil/Documents/magic/secret-retreats.sublime-project"
+			],
+			[
+				"haml",
+				"/Users/fadhil/Documents/magic/says/simple_google_custom_search/lib/sgcs.sublime-project"
+			],
+			[
+				"says",
+				"/Users/fadhil/Documents/magic/says-global.sublime-project"
+			],
+			[
+				" says",
+				"/Users/fadhil/Documents/magic/says-global.sublime-project"
+			],
+			[
+				"zigzeg",
+				"/Users/fadhil/Documents/magic/zigzeg.sublime-project"
+			],
+			[
+				"",
+				"/Users/fadhil/Documents/magic/sgcs.sublime-project"
+			],
+			[
+				"sgcs",
+				"/Users/fadhil/Documents/magic/sgcs.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true
+}

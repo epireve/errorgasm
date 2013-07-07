@@ -37,9 +37,10 @@
   "content_scripts": [
     {
       "matches": [
-        "*://*/*"
+        "*://localhost:*/*"
       ],
       "js": [
+        "src/inject/rails_catcher.js",
         "src/inject/inject.js",
         "js/jquery/jquery.min.js",
         "src/gritter/jquery.gritter.min.js"

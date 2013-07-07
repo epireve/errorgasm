@@ -1,7 +1,8 @@
 /* Errorgasm - A savior to deal with Web Programming errors 		*/
 /* Detecting error of JavaScript(currently) and send Message to BG	*/
 //Dummying error event
-chrome.extension.sendMessage({ dev_code_error: "invalid character"}, function(response) {
+
+chrome.extension.sendMessage({ dev_code_error: getRailsError() }, function(response) {
 
 	//$('<div id="selesaiMasalah">Logo Errorgasm 5<br><ul id="solution"></ul></div>').prependTo('body');
 	var solutions = "";
@@ -10,7 +11,7 @@ chrome.extension.sendMessage({ dev_code_error: "invalid character"}, function(re
 		//var $res = $("<li />");
 		//$res.append(response.errorgasm_solver.items[solution].title);
 		//$res.appendTo($('#solution'));
-		solutions = solutions + response.errorgasm_solver.items[i].title+"<br />";
+		solutions = solutions + '<a href=' + response.errorgasm_solver.items[i].link + '>' +	response.errorgasm_solver.items[i].title+"</a><br />";
 	}
 
 	$.gritter.add({
